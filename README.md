@@ -25,3 +25,12 @@
 - Utilizaremos o JavaScript para converter esses campos em objetos do tipo `Date`, permitindo manipulações e formatações mais adequadas.
 
 Certifique-se de testar cada etapa do processo para garantir que os dados sejam manipulados, convertidos e validados corretamente de acordo com os cenários especificados.
+
+
+# Instruções
+- Clonar este repositório em seu ambiente local
+- Dentro da pasta principal rodar o commando `npm install`
+- Acessar os dados através da API `http://localhost:8080/api/data`
+
+## OBS
+Embora a validação de CPF e CNPJ tenha sido criada os dados do campo `nrCpfCnpj` serão sempre inválidos
