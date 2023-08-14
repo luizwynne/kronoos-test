@@ -29,7 +29,8 @@ Certifique-se de testar cada etapa do processo para garantir que os dados sejam 
 
 # Instruções
 - Clonar este repositório em seu ambiente local
-- Dentro da pasta principal rodar o commando `npm install`
+- Dentro da pasta principal rodar o comando `npm install`
+- Ainda dentro da pasta principal rodar o comando `node index.js`
 - Acessar os dados através da API `http://localhost:8080/api/data`
 
 ## OBS
